@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Perfil de Antonio Vargas 
-## estoy estudiando el master de desarrollo fullstack
+## Estoy estudiando el master de desarrollo fullstack
 <!--
 **avargasway/avargasway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
